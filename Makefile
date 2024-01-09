@@ -1,12 +1,12 @@
 #setup make commands
 help:
 	@echo "Makefile supported commands:"
-	@echo "1. build-images: Build required images"
-	@echo "2. push-images: Push images to docker registery"
-	@echo "3. create-eks-cluster: create EKS cluster on AWS"
-	@echo "4. set-hpa-ca: Set policy and account for Pod scaling and Cluster scaling"
-	@echo "5. helm-deployment: Start deployment using helm on EKS cluster"
-	@echo "6. kill-helm-deployment: Uninstall helm deployment from EKS cluster"
+	@echo "1. build-mar: download and build mar file for sdxl model"
+	@echo "2. create-cluster: Create EKS cluster in AWS based on given manifest"
+	@echo "3. setup-serviceaccount: Setup Service account to handle IAM policy creation"
+	@echo "4. install-istio: Install and setup Istio"
+	@echo "5. install-addons: Install addons like Grafana, etc."
+	@echo "6. install-kserve: To install Kserving on created EKS cluster"
 
 build-mar:
 	@echo downloading SDXL model....
