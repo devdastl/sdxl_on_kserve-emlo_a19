@@ -1,3 +1,4 @@
+# Stable Diffusion XL deployment on Kserve (EMLO assignment 19)
 ## Steps to setup Stable Diffusion XL Kserving on Kubernates
 NOTE:- All steps are implemented using Makefile, to know more please checkout `Makefile` of this repo
 
