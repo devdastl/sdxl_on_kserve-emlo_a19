@@ -91,6 +91,7 @@ Cowboy riding tiger horse
 
 dog riding on a motor bike
 <img src="output_images/output_3.jpg" alt= “” width="" height="">
+<img src="output_images/output_4.png" alt= “” width="" height="">
 
 ## Dashboard output
 Grafana
