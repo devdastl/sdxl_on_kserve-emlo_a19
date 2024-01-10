@@ -81,3 +81,17 @@ curl -v -H "Host: ${SERVICE_HOSTNAME}" <http://$>{INGRESS_HOST}:${INGRESS_PORT}/
 
 ```
 ## SDXL Outputs
+Austronot Panda sitting inside spaceship
+<img src="output_images/output_1.jpg" alt= “” width="" height="">
+<br>
+
+Cowboy riding tiger horse
+<img src="output_images/output_2.jpg" alt= “” width="" height="">
+
+## Dashboard output
+Grafana
+<img src="output_logs/grafana.jpg" alt= “” width="" height="">
+kiali graph
+<img src="output_logs/kiali-graph.png" alt= “” width="" height="">
+prometheus
+<img src="output_logs/prometheus.png" alt= “” width="" height="">
