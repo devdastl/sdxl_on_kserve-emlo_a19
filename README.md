@@ -87,6 +87,10 @@ Austronot Panda sitting inside spaceship
 
 Cowboy riding tiger horse
 <img src="output_images/output_2.jpg" alt= “” width="" height="">
+<br>
+
+dog riding on a motor bike
+<img src="output_images/output_3.jpg" alt= “” width="" height="">
 
 ## Dashboard output
 Grafana
